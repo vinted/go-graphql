@@ -1,3 +1,5 @@
+This is a fork of [github.com/shurcooL/graphql](https://github.com/shurcooL/graphql) with changes from [this](https://github.com/shurcooL/graphql/pull/98) PR to add support for GraphQL extensions.
+
 graphql
 =======
 
