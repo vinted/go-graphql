@@ -1,3 +1,3 @@
-module github.com/shurcooL/graphql
+module github.com/vinted/go-graphql
 
-go 1.19
+go 1.21
